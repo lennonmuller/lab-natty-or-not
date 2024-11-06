@@ -16,6 +16,8 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador e ao mesmo tempo alerta o perigo do uso mal intencionado das IAs.
 
+[LINK PARA O VÍDEO AQUI](https://www.linkedin.com/posts/lennon-m%C3%BCler-3890282ba_labdionattyornot-labdionattyornot-ia-activity-7259924756349509636-WH-W?utm_source=share&utm_medium=member_desktop)
+
 ## 💭 Reflexão (Opcional)
 Como citado na descrição, o projeto explora o uso da imagem de uma pessoa, representando-a como uma "clonagem" ou "substituição por uma versão robótica". No entanto, é importante considerar os riscos associados ao uso malicioso dessa tecnologia, como sequestros ou chantagens online. Você estaria atento aos sinais? Nos dias de hoje, é crucial estar vigilante, pois muitas pessoas já foram vítimas de golpes semelhantes por meio de chamadas telefônicas. Com tecnologias avançadas, você conseguiria identificar os sinais?
 
